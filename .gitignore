@@ -1,4 +1,3 @@
 # created by virtualenv automatically
 venv/Lib
 .idea/
-db.sqlite3
